@@ -7,7 +7,7 @@ venv/
 env/
 
 # Database & Model artifacts
-*.db
+!database/real_estate.db
 !models/real_estate_model.pkl
 
 # OS files
