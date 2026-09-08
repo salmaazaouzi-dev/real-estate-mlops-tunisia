@@ -8,7 +8,6 @@ env/
 
 # Database & Model artifacts
 *.db
-*.pkl
 
 # OS files
 .DS_Store
