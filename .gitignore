@@ -8,6 +8,7 @@ env/
 
 # Database & Model artifacts
 *.db
+!models/real_estate_model.pkl
 
 # OS files
 .DS_Store
