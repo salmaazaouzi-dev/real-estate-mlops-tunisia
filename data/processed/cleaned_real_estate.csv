@@ -1,0 +1,333 @@
+listing_id,title,price_tnd,surface_m2,rooms,location,latitude,longitude,price_per_m2
+1,Un Duplex de Prestige S3 avec vue Nature Verdoyante,1014600.0,267.0,3,La Marsa,36.87146,10.324297,3800.0
+2,Duplex à vendre en S3,748800.0,312.0,4,Ariana,36.847803,10.175208,2400.0
+3,A Vendre Un Triplex En S4 Aux Berges Du Lac 2,1284800.0,584.0,5,Tunis,36.808573,10.188459,2200.0
+4,A vendre S2 au lac2,299000.0,115.0,3,Sousse,35.816258,10.622948,2600.0
+5,Triplex S4 La Soukra,759500.0,245.0,6,Hammamet,36.387565,10.612828,3100.0
+6,"S2 Moderne à Skyline, Jardins de Carthage",167400.0,93.0,3,Sfax,34.723617,10.772865,1800.0
+7,S2 Neuf à la Résidence Jinene Soukra 1 Chotrana 3,271400.0,118.0,3,Nabeul,36.458355,10.736948,2300.0
+8,Le projet immobilier Résidence Emna,285000.0,150.0,4,Bizerte,37.271036,9.893239,1900.0
+9,Appartement à vendre à Sahloul. 3 chambres agréables,327600.0,156.0,4,Monastir,35.786152,10.815589,2100.0
+10,Appartement S3 à vendre aux Berges du Lac 1,1140000.0,300.0,3,La Marsa,36.873907,10.309122,3800.0
+11,A VENDRE Loft S2 à Les Berges du Lac 2,350400.0,146.0,1,Ariana,36.870041,10.188462,2400.0
+12,A VENDRE Appartement S2 aux berges du lac 2,264000.0,120.0,4,Tunis,36.798336,10.163315,2200.0
+13,À Vendre un appartement en S2 aux Berges du Lac 2,208000.0,80.0,3,Sousse,35.836468,10.653482,2600.0
+14,A Vendre Appartement s3 à Cité Ettahrir supérieur,384400.0,124.0,4,Hammamet,36.418416,10.606797,3100.0
+15,Appartement S2 à Hammamet Nord,279000.0,90.0,3,Hammamet,36.383125,10.597993,3100.0
+16,Appartement s2 de 94 m² à la Nouvelle Medina,216200.0,94.0,2,Nabeul,36.465742,10.757543,2300.0
+17,Appartement S2 de 117 m² à Nouvelle Médina Vente,222300.0,117.0,2,Bizerte,37.287109,9.868583,1900.0
+18,Appartement S2 de 71.25 m² à la Nouvelle Medina,149100.0,71.0,2,Monastir,35.801028,10.847883,2100.0
+19,A vendre s2 à la nouvelle médina,273600.0,72.0,3,La Marsa,36.867214,10.317453,3800.0
+20,À VENDRE – Appartement S1 – Tanit C,153600.0,64.0,2,Ariana,36.847168,10.212649,2400.0
+21,Appartement A05 – S2 – Résidence MAYA à Kairouan,231000.0,105.0,3,Tunis,36.798124,10.170062,2200.0
+22,Vend appartement à Sidi Hassine,169000.0,65.0,2,Sousse,35.826327,10.652437,2600.0
+23,Spacieux S3 aux Jardins de Carthage 176m² A1 2,545600.0,176.0,4,Hammamet,36.397089,10.597289,3100.0
+24,"A saisir un S2 de 82,65 m² à vendre, La Soukra",147600.0,82.0,3,Sfax,34.755411,10.759794,1800.0
+25,À Vendre: Un appartement S3 Direct Promoteur,264500.0,115.0,4,Nabeul,36.443722,10.748963,2300.0
+26,"Immeuble au centre ville de Midoun 
+Djerba",380000.0,200.0,4,Bizerte,37.291701,9.883954,1900.0
+27,Un appartement à jinen mansoura kelibia,189000.0,90.0,3,Monastir,35.801801,10.814113,2100.0
+28,À Louer un appartement en S2 aux Berges du Lac 2,494000.0,130.0,3,La Marsa,36.862518,10.32251,3800.0
+29,A vendre appartement S2 à La Nouvelle Soukra,372000.0,95.0,3,Ariana,36.874142,10.191993,3915.79
+30,Appartement S4 en vente,316800.0,144.0,4,Tunis,36.821055,10.167249,2200.0
+31,A vendre s1 neuf 70 m² à la soukra,182000.0,70.0,2,Sousse,35.837854,10.655935,2600.0
+32,Residence THS à Chotrana 1,242000.0,57.0,2,Hammamet,36.414201,10.633769,4245.61
+33,Etage de villa,144000.0,80.0,3,Sfax,34.739674,10.742381,1800.0
+34,A vendre S2 la soukra,333500.0,145.0,3,Nabeul,36.455495,10.740319,2300.0
+35,Pack à vendre,1500000.0,300.0,3,Bizerte,37.265387,9.878373,5000.0
+36,Opportunité S2 à Chotrana 1 LA Soukra,231000.0,110.0,3,Monastir,35.769732,10.826629,2100.0
+37,S2 en vente,304000.0,80.0,2,La Marsa,36.861324,10.325556,3800.0
+38,S1 en vente,156000.0,65.0,1,Ariana,36.847191,10.198416,2400.0
+39,Vente d'un bel appartement à Les Jardins de Carthage. 3 cham...,371800.0,169.0,4,Tunis,36.804478,10.173906,2200.0
+40,S2 Neuf de 115 m² à Jinene Soukra 1 Chotrana 3,299000.0,115.0,3,Sousse,35.823413,10.630699,2600.0
+41,JINENE SOUKRA 1: Luxe et Confort à Chotrana 3,390000.0,120.0,4,Hammamet,36.408374,10.633413,3250.0
+42,Vend appartement S2 à Sahloul. Surface de 107 m²,192600.0,107.0,3,Sfax,34.75368,10.777375,1800.0
+43,Des appartements neufs directe promoteur à la Nouv,230000.0,100.0,2,Nabeul,36.438463,10.740509,2300.0
+44,Appartement neuf Directe Promoteur,207100.0,109.0,2,Bizerte,37.2826,9.878337,1900.0
+45,A vendre s2 spacieux bon standing hammamet:,341000.0,110.0,3,Hammamet,36.401706,10.607203,3100.0
+46,À VENDRE – Appartement S1 – Tapsus 1. E. 1,273600.0,72.0,2,La Marsa,36.858656,10.33975,3800.0
+47,Appartement A01 – S2 Garage,252000.0,105.0,3,Ariana,36.858126,10.190257,2400.0
+48,Vend appartement à Sidi Hassine,180400.0,82.0,3,Tunis,36.81781,10.188079,2200.0
+49,Superbe Penthouse aux Jardins de Carthage. Superficie de 312...,811200.0,312.0,4,Sousse,35.822299,10.631495,2600.0
+50,Vend appartement,458800.0,148.0,4,Hammamet,36.389249,10.601302,3100.0
+51,Appartements haut standing à cité Ksiba Kelibia,144000.0,80.0,2,Sfax,34.724397,10.768446,1800.0
+52,À vendre appartement S2 neuf à Gammarth Forêt,264500.0,115.0,3,Nabeul,36.438366,10.747544,2300.0
+53,A vendre un appartement S2 à Hammamet,601400.0,194.0,5,Hammamet,36.408315,10.599092,3100.0
+54,Appartement S2 Au Centre Ville De Tunis,143000.0,65.0,3,Tunis,36.824768,10.200827,2200.0
+55,À vendre – Appartement S2 avec vue mer a Ezzahra,421800.0,111.0,3,La Marsa,36.884332,10.337499,3800.0
+56,À vendre Appartement S2 meublé a kélibia,240000.0,100.0,3,Ariana,36.847153,10.190592,2400.0
+57,À Vendre Appartement S3 jamais habité,343200.0,156.0,4,Tunis,36.805387,10.198968,2200.0
+58,A vendre S3 au Rez De Chaussée à Chotran I,410800.0,158.0,4,Sousse,35.80834,10.640401,2600.0
+59,A Vendre S2 THS à Chotrana 1,387500.0,125.0,3,Hammamet,36.416896,10.609747,3100.0
+60,A vendre S2 la soukra,153000.0,85.0,3,Sfax,34.724333,10.778923,1800.0
+61,A vendre un appartement S2 l'Aouina – Cité Wahat,230000.0,100.0,3,Nabeul,36.448295,10.721252,2300.0
+62,Appartement à l'achat. 2 chambres,250800.0,132.0,2,Bizerte,37.291385,9.885188,1900.0
+63,Appartement s4 à vendre,420000.0,200.0,5,Monastir,35.781693,10.836838,2100.0
+64,Duplex en vente,532000.0,140.0,3,La Marsa,36.885827,10.336089,3800.0
+65,Appartement s1 à vendre,120000.0,50.0,2,Ariana,36.879007,10.203291,2400.0
+66,A vendre appartement s2 sur plan,198000.0,90.0,3,Tunis,36.79484,10.186312,2200.0
+67,S2 haut standing de 108 m,280800.0,108.0,3,Sousse,35.82044,10.624513,2600.0
+68,S2 en vente,400000.0,84.0,2,Hammamet,36.404982,10.629107,4761.9
+69,S2 en vente,142200.0,79.0,2,Sfax,34.722045,10.758393,1800.0
+70,"A vendre un appartement, direct promoteur, en s2 au RDC à Me...",276000.0,120.0,3,Nabeul,36.451818,10.742795,2300.0
+71,Appartement à vendre,262200.0,138.0,1,Bizerte,37.264355,9.857411,1900.0
+72,S2 de 123 m² à Jinene Soukra 1 Chotrana 3,258300.0,123.0,3,Monastir,35.778866,10.835092,2100.0
+73,Appartement S3 de 132 m² à Ben Arous,501600.0,132.0,3,La Marsa,36.858501,10.308676,3800.0
+74,Résidence Floria - Cité el Ghazela,339000.0,90.0,3,Ariana,36.846741,10.186454,3766.67
+75,Bel appartement à vendre Surface totale 133 m² au 4eme étage,292600.0,133.0,3,Tunis,36.796615,10.196508,2200.0
+76,À VENDRE –Appartement S2 – Hannibal 1. F,447200.0,172.0,3,Sousse,35.829978,10.647224,2600.0
+77,Appartement A03 – S1 – Résidence MAYA à Kairouan,192200.0,62.0,2,Hammamet,36.416869,10.631523,3100.0
+78,Penthouse d'exception aux Jardins de Carthage. 277m² D1 4,498600.0,277.0,4,Sfax,34.727969,10.755477,1800.0
+79,Appartement à l'achat à Route Lafrane,340400.0,148.0,4,Nabeul,36.444085,10.718042,2300.0
+80,Magnifique S2 en RDC avec jardin et piscine privative,233700.0,123.0,3,Bizerte,37.292639,9.859202,1900.0
+81,Luxueux appartement à vendre à route touristique,378000.0,180.0,2,Monastir,35.766708,10.818251,2100.0
+82,Superbe Studio à vendre à Bouhsina,247000.0,65.0,2,La Marsa,36.89452,10.335222,3800.0
+83,Appartement s1 luxe à vendre ou à loué sousse,171600.0,66.0,2,Sousse,35.840354,10.634782,2600.0
+84,À vendre – Appartement S1 à Kantaoui sousse,135200.0,52.0,1,Sousse,35.831698,10.63816,2600.0
+85,Magnifique Penthouse à vendre a sousse,650000.0,250.0,3,Sousse,35.845367,10.657655,2600.0
+86,À VENDRE – Appartement S4 à Khezama Est,279000.0,90.0,4,Hammamet,36.418029,10.630391,3100.0
+87,Appartement s2 vue de mer à vendre sousse,580000.0,100.0,2,Sousse,35.820001,10.655293,5800.0
+88,Appartement sur la zone touristique à vendre,211600.0,92.0,2,Nabeul,36.447334,10.757455,2300.0
+89,Superbe S2 à la Nouvelle Soukra,218500.0,115.0,3,Bizerte,37.280708,9.875358,1900.0
+90,Appartement s3 haut standing à vendre à Nkhilette,388500.0,185.0,3,Monastir,35.783757,10.819693,2100.0
+91,S3 a vendre,611800.0,161.0,4,La Marsa,36.886132,10.327967,3800.0
+92,À vendre Appartement S2 Haute Standing,436800.0,182.0,2,Ariana,36.882956,10.202095,2400.0
+93,A vendre S1 Proche Bel AZUR Hammamet AH100:,186000.0,60.0,2,Hammamet,36.408965,10.611574,3100.0
+94,S3 à vendre neuf les jardins de Carthage,361400.0,139.0,4,Sousse,35.834187,10.645553,2600.0
+95,"À vendre s2 les jardins de Carthage 166,5 m2",514600.0,166.0,3,Hammamet,36.389417,10.603496,3100.0
+96,S1 au Jardin de lAouina au 1étage,131400.0,73.0,2,Sfax,34.748388,10.779366,1800.0
+97,S3 neuf avec Jardin à la Marsa,562400.0,148.0,3,La Marsa,36.884255,10.323372,3800.0
+98,Appartement AR1–S3–RDC–Bloc A,269800.0,142.0,4,Bizerte,37.268002,9.867787,1900.0
+99,Appartement A2 2 – S3 – 2ème étage – Bloc A,296100.0,141.0,4,Monastir,35.779993,10.813376,2100.0
+100,S2 haut standing de 123 m,467400.0,123.0,3,La Marsa,36.864446,10.317815,3800.0
+101,S2 Direct Promoteur à Jinene Soukra 1 Chotrana 3,266400.0,111.0,3,Ariana,36.855952,10.192383,2400.0
+102,Appartement S2 de 100m² à La Nouvelle Médina,255200.0,116.0,3,Tunis,36.805955,10.166021,2200.0
+103,Appartement s2 de 85 m² à la Nouvelle Medina,221000.0,85.0,3,Sousse,35.840474,10.631878,2600.0
+104,Appartement S4 de 127m² à La Ennacer2,393700.0,127.0,4,Hammamet,36.395011,10.634647,3100.0
+105,Appartement S1 à vendre à Sahloul 4,127800.0,71.0,1,Sfax,34.751885,10.743795,1800.0
+106,Appartement s1 à vendre,174800.0,76.0,2,Nabeul,36.45862,10.73846,2300.0
+107,JINENE SOUKRA 1: Luxe et Confort à Chotrana 3,390000.0,180.0,5,Bizerte,37.27628,9.85654,2166.67
+108,Appartement s1 à vendre,84000.0,40.0,2,Monastir,35.764544,10.820316,2100.0
+109,À VENDRE –Appartement S2 – Hannibal 7. C. 1,592800.0,156.0,3,La Marsa,36.870504,10.3081,3800.0
+110,Appartement A13 – Résidence MAYA à Kairouan,192000.0,80.0,3,Ariana,36.870685,10.208064,2400.0
+111,S2 d'Exception aux jardins de Carthage A1 9,272800.0,124.0,3,Tunis,36.803785,10.195274,2200.0
+112,Vente d'un bel appartement à Route Lafrane,231400.0,89.0,3,Sousse,35.815367,10.645424,2600.0
+113,S1 de 80 m2 avec terrasse et jardin de 26m2,248000.0,80.0,2,Hammamet,36.389865,10.610709,3100.0
+114,Un S 2 à Cite Wahat,153000.0,85.0,3,Sfax,34.721418,10.777705,1800.0
+115,Appartement S3 vide aux berges du lac2,363400.0,158.0,3,Nabeul,36.449498,10.747504,2300.0
+116,Duplex S4 à louer aux berges du lac2,760000.0,400.0,4,Bizerte,37.263679,9.862713,1900.0
+117,S3 neuf à vendre aux berges du Lac 2,405300.0,193.0,3,Monastir,35.79525,10.824114,2100.0
+118,A vendre un S1 a Yasmine Hammamet,161200.0,52.0,2,Hammamet,36.392472,10.605142,3100.0
+119,Appartement S1 à vendre aux berges du lac2,192000.0,80.0,3,Ariana,36.884302,10.176899,2400.0
+120,Duplex à vendre au Lac 2,457600.0,208.0,3,Tunis,36.791334,10.182529,2200.0
+121,À vendre bel appartement au RDC à cite hedi nouira Ariana,307200.0,128.0,2,Ariana,36.870126,10.191066,2400.0
+122,Magnifique penthouse moderne avec piscine au Lac 2,279000.0,90.0,4,Hammamet,36.385866,10.621132,3100.0
+123,Vente d'un bel appart Jardins de Carthage Promoteu,360000.0,200.0,5,Sfax,34.72479,10.779176,1800.0
+124,Fonctionnel S2 aux jardins de Carthage 104m² B2 1,239200.0,104.0,3,Nabeul,36.464862,10.749314,2300.0
+125,Appartement A44 – Résidence MAYA à Kairouan,167200.0,88.0,3,Bizerte,37.264205,9.873557,1900.0
+126,Un joli S2 de 106.4 m² avec une belle terrasse de 44m²,222600.0,106.0,3,Monastir,35.782491,10.842443,2100.0
+127,Prestigieux Penthouse aux Jardins de Carthage. Surface de 26...,999400.0,263.0,4,La Marsa,36.880602,10.328548,3800.0
+128,Appartement S3 de 125m² à l'achat à El Menzah 9,300000.0,125.0,4,Ariana,36.873942,10.199891,2400.0
+129,Appartement A4 2 – S3 – 4ème étage – Bloc A,310200.0,141.0,4,Tunis,36.822387,10.162948,2200.0
+130,"Apparemment rénové S4, Ain Zaghouen",442000.0,170.0,5,Sousse,35.81859,10.648209,2600.0
+131,Vente d'un bel appartement à Carthage. 2 chambres agréables...,353400.0,114.0,3,Hammamet,36.409018,10.612655,3100.0
+132,À vendre – Appartement S2 à La Soukra,223200.0,124.0,1,Sfax,34.747101,10.754659,1800.0
+133,S2 haut standing de 125 m,287500.0,125.0,3,Nabeul,36.448512,10.73131,2300.0
+134,S2 de 115 m² à Jinene Soukra 1 Chotrana 3,218500.0,115.0,3,Bizerte,37.265267,9.876773,1900.0
+135,À vendre Appartement type S2 cuisine ouverte,224700.0,107.0,4,Monastir,35.802538,10.820266,2100.0
+136,Appartement s1 à vendre,228000.0,60.0,2,La Marsa,36.874114,10.325679,3800.0
+137,Appartement s2 a vendre,264000.0,110.0,3,Ariana,36.865642,10.183226,2400.0
+138,Appartement s3 à vendre,330000.0,150.0,4,Tunis,36.804669,10.187629,2200.0
+139,A vendre appartement s2 sur plan,249600.0,96.0,3,Sousse,35.824539,10.657278,2600.0
+140,Résidence Floria - Cité el Ghazela,339000.0,150.0,4,Hammamet,36.39525,10.607099,2260.0
+141,Appartement s2 à vendre,234000.0,130.0,3,Sfax,34.722299,10.761535,1800.0
+142,À VENDRE –Appartement S2 – Hannibal 3. A,345000.0,150.0,3,Nabeul,36.473114,10.734028,2300.0
+143,Appartement A34 – Résidence MAYA à Kairouan,180500.0,95.0,3,Bizerte,37.254409,9.865125,1900.0
+144,Vente d'un bel appartement à Route Lafrane. Superficie 193 m...,405300.0,193.0,4,Monastir,35.792692,10.838485,2100.0
+145,Superbe S1 de 80 m2 en RDC avec un jardin de 26 m,307800.0,81.0,2,La Marsa,36.891994,10.330623,3800.0
+146,Superbe appartement à vendre à El Omrane Supérieur. Surface...,170400.0,71.0,2,Ariana,36.854146,10.191183,2400.0
+147,À vendre Appartement S2 au Lac 2,253000.0,115.0,3,Tunis,36.803265,10.167114,2200.0
+148,À vendre Appartement S2 au Lac 2,153400.0,59.0,3,Sousse,35.808193,10.646222,2600.0
+149,A Louer S1 au lac2,380000.0,60.0,2,Hammamet,36.382614,10.604877,6333.33
+150,À vendre un Appartement S1 meublé au Lac 2,88200.0,49.0,2,Sfax,34.747345,10.77915,1800.0
+151,À vendre – Appartement S2 neuf à Cité Merdes,230000.0,100.0,3,Nabeul,36.445553,10.727012,2300.0
+152,"Appartement Danielle, Pieds dans l'eau à Hammamet",585900.0,189.0,3,Hammamet,36.397606,10.620541,3100.0
+153,A vendre Appartement en s2 sis à Ben Arous,210000.0,100.0,1,Monastir,35.770243,10.814676,2100.0
+154,"Appartement Samaris, pieds dans l'eau Hammamet",372000.0,120.0,4,Hammamet,36.385456,10.598724,3100.0
+155,À vendre –S1 à Chott Mariem / pieds dans l’eau,1200000000.0,500000.0,2,Ariana,36.868449,10.182347,2400.0
+156,Appartement Yvette Hammamet Nord,368900.0,119.0,3,Hammamet,36.40256,10.611122,3100.0
+157,"Titre bleu: Grand appartement  
+2 garages",403000.0,155.0,4,Sousse,35.828672,10.648002,2600.0
+158,Un appartement s2 à cité les palmeraies,341000.0,110.0,3,Hammamet,36.386384,10.631534,3100.0
+159,Duplex s3 avec piscine à la soukra,450000.0,250.0,4,Sfax,34.759537,10.778895,1800.0
+160,Fabuleux appartement S2 à vendre à Bou Mhel,239200.0,104.0,3,Nabeul,36.438411,10.753832,2300.0
+161,À VENDRE –Appartement S2 – Utica 2. B,214700.0,113.0,3,Bizerte,37.260051,9.889912,1900.0
+162,APPART S4 à la Marina de Gammarth,420000.0,200.0,5,Monastir,35.798331,10.844302,2100.0
+163,Bel appartement à vendre à Sidi Hassine,250800.0,66.0,2,La Marsa,36.872453,10.336899,3800.0
+164,Appartement S2 avec Grande Terrasse,268800.0,112.0,3,Ariana,36.879545,10.191352,2400.0
+165,Duplex avec jardin et Piscine au Perle du Lac,585200.0,266.0,4,Tunis,36.812469,10.182213,2200.0
+166,S3 de 162 m² à Jinene Soukra 1 Chotrana 3,421200.0,162.0,4,Sousse,35.809534,10.626071,2600.0
+167,Vend appartement,412300.0,133.0,4,Hammamet,36.38098,10.618238,3100.0
+168,S2 à vendre aux Jardins de Carthage. Surface 121 m² B1 4,217800.0,121.0,3,Sfax,34.752783,10.772861,1800.0
+169,Appartement S3 À El Mourouj 3,253000.0,110.0,4,Nabeul,36.458622,10.729891,2300.0
+170,Appartement S2 à Ain Zaghouan nord,218500.0,115.0,3,Bizerte,37.259676,9.871171,1900.0
+171,Appartement S1 au berges du lac 2,98700.0,47.0,2,Monastir,35.771318,10.844105,2100.0
+172,Appartement S3 à ain Zaghouan,592800.0,156.0,4,La Marsa,36.876224,10.320475,3800.0
+173,Le projet immobilier Résidence Emna,288000.0,120.0,4,Ariana,36.851558,10.184298,2400.0
+174,Appartement S3 à l’aouina,308000.0,140.0,4,Tunis,36.804795,10.186938,2200.0
+175,À VENDRE –Appartement S3 – Maharbal 1. B. 2,442000.0,170.0,3,Sousse,35.82629,10.647396,2600.0
+176,Appartement A33 – Résidence MAYA à Kairouan,300700.0,97.0,3,Hammamet,36.403182,10.609526,3100.0
+177,S2 de 122 m2 avec jardin au RDC 93 m2,219600.0,122.0,3,Sfax,34.721886,10.757765,1800.0
+178,Appartement en vente à El Omrane Supérieur. Surface de 103 m...,246100.0,107.0,3,Nabeul,36.451805,10.724366,2300.0
+179,DUPLEX D'Exception. Résidence AVA aux jardins de carthage D0...,670700.0,353.0,4,Bizerte,37.289562,9.875078,1900.0
+180,À vendre s3 à la soukra,323400.0,154.0,4,Monastir,35.783199,10.833084,2100.0
+181,Appartement S2 direct promoteur,418000.0,110.0,3,La Marsa,36.883497,10.309811,3800.0
+182,Appartement en vente à Chotrana 1. Superficie 75 m². Double...,180000.0,75.0,2,Ariana,36.853819,10.198039,2400.0
+183,À vendre Appartement en S3 de 146 m² à Ezzahra,321200.0,146.0,1,Tunis,36.788073,10.17904,2200.0
+184,Un magnifique Appartement S3 au Lac 2,572000.0,220.0,1,Sousse,35.837324,10.652212,2600.0
+185,Appatement s3 aux les berges du lac 1 vue sur lac,1085000.0,350.0,4,Hammamet,36.400593,10.59731,3100.0
+186,S1 de 83m² avec piscine privée à Hammamet Nord,257300.0,83.0,2,Hammamet,36.416439,10.629055,3100.0
+187,A Vendre S2 neuf à Hammam Sousse,236600.0,91.0,3,Sousse,35.840728,10.622331,2600.0
+188,A Vendre des appartements S2 neufs,171000.0,90.0,3,Bizerte,37.279477,9.880816,1900.0
+189,S3 sur plan en vente a kantaoui,338100.0,161.0,4,Monastir,35.784643,10.82145,2100.0
+190,"Appartement S  2 à vendre, Résidence MALAGA 2 La Marsa",452200.0,119.0,3,La Marsa,36.891104,10.333771,3800.0
+191,A Vende un appartement en s3 au Bardo,304800.0,127.0,4,Ariana,36.88125,10.182405,2400.0
+192,Appartement à l'achat. Surface de 159 m²,349800.0,159.0,2,Tunis,36.810743,10.18939,2200.0
+193,S2 à la Soukra d'une superficie de 127.76 m²,332800.0,128.0,4,Sousse,35.831789,10.648086,2600.0
+194,S3 en vente,527000.0,170.0,4,Hammamet,36.397496,10.618949,3100.0
+195,Opportunité d'unS2 Moderne et Fonctionnet,329400.0,183.0,3,Sfax,34.733997,10.746824,1800.0
+196,Appartement S3 à Jardin de Carthage,322000.0,140.0,3,Nabeul,36.441108,10.732377,2300.0
+197,S2 de 107 m²,203300.0,107.0,3,Bizerte,37.260769,9.855923,1900.0
+198,S2 de 110m² à hammamet Sud,341000.0,110.0,3,Hammamet,36.407361,10.599971,3100.0
+199,S3 Neuf de 177m² à Jinene Soukra 1 Chotrana 3,672600.0,177.0,4,La Marsa,36.862772,10.30943,3800.0
+200,Superbe appartement à vendre. Superficie 94 m²,225600.0,94.0,2,Ariana,36.870049,10.205725,2400.0
+201,Vend appartement à Les Jardins de Carthage. Superficie 279 m...,613800.0,279.0,3,Tunis,36.80075,10.195013,2200.0
+202,A Louer Appartement S3 Meuble a la Marsa Plage,570000.0,150.0,3,La Marsa,36.897057,10.322731,3800.0
+203,A Vendre un S3 de 230 m² aux Jardins De Carthage,775000.0,250.0,2,Hammamet,36.410902,10.618738,3100.0
+204,À vendre un Appartement S3 à La Marsa Les Pins,608000.0,160.0,4,La Marsa,36.87577,10.306454,3800.0
+205,À Vendre appartement S2 à Sidi Daoued La Marsa,319200.0,84.0,2,La Marsa,36.88853,10.326539,3800.0
+206,Résidence Floria - Cité el Ghazela,339000.0,90.0,3,Bizerte,37.270969,9.887505,3766.67
+207,À Vendre Penthouse vue Lac aux Jardins de Carthage,819000.0,390.0,5,Monastir,35.792812,10.820637,2100.0
+208,À VENDRE –Appartement S2 – Amilcar 2. B,471200.0,124.0,3,La Marsa,36.870558,10.341371,3800.0
+209,Appartement A21 – Résidence MAYA à Kairouan,237600.0,99.0,3,Ariana,36.849474,10.182994,2400.0
+210,Très grand S2 de 121m² au 1ier étage,266200.0,121.0,3,Tunis,36.79812,10.199155,2200.0
+211,Vente d'un bel appartement à Les Jardins d'El Menzah 1,275600.0,106.0,3,Sousse,35.823135,10.635972,2600.0
+212,Duplex De prestige S3 à vendre aux Jardins de Carthage D0 1,895900.0,289.0,4,Hammamet,36.383949,10.633201,3100.0
+213,S3 direct promoteur a kantaoui avec une vue mer,268200.0,149.0,4,Sfax,34.752174,10.767202,1800.0
+214,S3 vue mer en vente,506000.0,220.0,4,Nabeul,36.438206,10.735332,2300.0
+215,S4 sur plan en vente a kantaoui,541500.0,285.0,5,Bizerte,37.282299,9.89152,1900.0
+216,S3 pied dans l'eau en vente a El kantaoui,378000.0,180.0,4,Monastir,35.794122,10.813763,2100.0
+217,S2 en vente dans une résidence avec piscine,554800.0,146.0,1,La Marsa,36.896657,10.326403,3800.0
+218,A VENDRE appartement S2 haut standing à Bellevu,264000.0,110.0,2,Ariana,36.87054,10.191129,2400.0
+219,A VENDRE: appartement S3 à EL WAHAT / L'AOUINA,222200.0,101.0,3,Tunis,36.799124,10.176612,2200.0
+220,Appartement S2 neuf avec ascenseur a kélibia,312000.0,120.0,3,Sousse,35.834506,10.64868,2600.0
+221,Appartement S1 à vendre à Cité El Bosten,217000.0,70.0,2,Hammamet,36.39121,10.60875,3100.0
+222,A vendre un appartement en S2 de120m²,288000.0,160.0,3,Sfax,34.757259,10.763242,1800.0
+223,S2 de 99m² avec une terrasse à Hammamet Nord,306900.0,99.0,3,Hammamet,36.404774,10.635129,3100.0
+224,À vendre un appartement s1 à la Soukra Parc,123500.0,65.0,2,Bizerte,37.261157,9.891161,1900.0
+225,"À Vendre – Appartement S2 à El Fatha, Kélibia",212100.0,101.0,3,Monastir,35.766166,10.826181,2100.0
+226,À vendre – Appartement S1 avec vue piscine,262200.0,69.0,2,La Marsa,36.886624,10.336743,3800.0
+227,Appartement récemment rénové à vendre à Denden. Surface : 70...,168000.0,70.0,2,Ariana,36.877806,10.200623,2400.0
+228,À VENDRE Appartement S3 Vue Route touristique SOUSSE,460200.0,177.0,4,Sousse,35.811694,10.647621,2600.0
+229,Villa de Style Américain Haut Standing à Sahloul 4,1196000.0,460.0,5,Sousse,35.831754,10.642627,2600.0
+230,Vente appartement avec une vue sur mer,248000.0,80.0,1,Hammamet,36.415051,10.619505,3100.0
+231,A vendre Appartement S2 Haut Standing a Sahloul 4,230400.0,128.0,3,Sfax,34.728472,10.754019,1800.0
+232,Appartement à vendre. S3 avec Terrasse 22 m²,358800.0,156.0,4,Nabeul,36.470873,10.749327,2300.0
+233,"Duplex de luxe s4,5 de 315m² aux Jardins de Carthage D0 7",598500.0,315.0,5,Bizerte,37.274678,9.855966,1900.0
+234,Fabuleux S3 de 125m² à vendre,262500.0,125.0,4,Monastir,35.802557,10.836041,2100.0
+235,A VENDRE Appartement s3 à Rades,380000.0,100.0,4,La Marsa,36.884099,10.321631,3800.0
+236,A VENDRE Duplex S3 à Rades,672000.0,280.0,4,Ariana,36.866971,10.199708,2400.0
+237,A vendre un apparteme S2 avec jardin à Afh Mrezga,198000.0,90.0,5,Tunis,36.811198,10.183342,2200.0
+238,À vendre Appartement S2,338000.0,130.0,3,Sousse,35.824822,10.624225,2600.0
+239,Résidence: BABYLONE - Sfax,324000.0,180.0,5,Sfax,34.752007,10.749044,1800.0
+240,Des appartements haut standing à vendre,189000.0,105.0,3,Sfax,34.724841,10.751465,1800.0
+241,Appartement A14 – Résidence MAYA à Kairouan,246100.0,107.0,3,Nabeul,36.459681,10.73488,2300.0
+242,S2 122 m2 prix promotionnel jusqu'au  ***-******,231800.0,122.0,3,Bizerte,37.274036,9.877804,1900.0
+243,Appartement à l'achat à Les Jardins d'El Menzah 1.2 chambres...,214200.0,102.0,2,Monastir,35.797237,10.850006,2100.0
+244,Vente d'un bel appartement à Borj Louzir,191000.0,88.0,3,La Marsa,36.87778,10.33536,2170.45
+245,A vendre S2 de 86m² avec place de parking,206400.0,86.0,3,Ariana,36.865534,10.206237,2400.0
+246,Vente appartement retapé a neuf a menzah 1,154000.0,70.0,2,Tunis,36.822351,10.171828,2200.0
+247,Appartement s2 a la Marsa en cours de construction,630000.0,128.0,2,La Marsa,36.867703,10.308651,4921.88
+248,Nouveau projet à la Soukra,266600.0,86.0,3,Hammamet,36.399841,10.59739,3100.0
+249,S3 en vente,714000.0,168.0,5,Sfax,34.753251,10.742546,4250.0
+250,S4 en vente,330000.0,111.0,5,Nabeul,36.474662,10.746814,2972.97
+251,S2 en vente,252700.0,133.0,3,Bizerte,37.264721,9.857226,1900.0
+252,S2 en vente,279300.0,133.0,4,Monastir,35.7696,10.83063,2100.0
+253,Appartement S1,152000.0,40.0,2,La Marsa,36.874602,10.323673,3800.0
+254,S3 en vente dans une résidence avec piscine,439200.0,183.0,1,Ariana,36.861594,10.190204,2400.0
+255,Appartement s1 à vendre sur plan,389223.0,66.0,1,Tunis,36.818185,10.172473,5897.32
+256,Appartement S3 à Khzema Sousse,483600.0,186.0,3,Sousse,35.808672,10.65372,2600.0
+257,A Vendre S3 aux Jardins de Carthage,427800.0,138.0,4,Hammamet,36.406353,10.631143,3100.0
+258,Appartement s2 à vendre aux jardins de Carthage,270000.0,150.0,2,Sfax,34.729025,10.743812,1800.0
+259,A vendre ou a louer bel appartement marsa cube ave,299000.0,130.0,4,Nabeul,36.440071,10.723093,2300.0
+260,A vendre appartement S1 à La Nouvelle Soukra,186000.0,150.0,2,Bizerte,37.272314,9.881223,1240.0
+261,Un appartement bien aménagé,420000.0,200.0,5,Monastir,35.786965,10.851907,2100.0
+262,Bel appartement à vendre à Les Jardins de Carthage,266000.0,70.0,2,La Marsa,36.867253,10.344685,3800.0
+263,Vente appartement s2 de standing la marsa,486400.0,128.0,3,La Marsa,36.893363,10.330453,3800.0
+264,Appartement B4 2 – S2 – 4ème étage – Bloc B,228800.0,104.0,3,Tunis,36.788756,10.165002,2200.0
+265,Penthouse d'Exception aux Jardins de Carthage. Dernier étage...,811200.0,312.0,5,Sousse,35.810717,10.652074,2600.0
+266,A vendre S2 de 104m² ç La Mars Bhar Lazrek,322400.0,104.0,3,Hammamet,36.413552,10.598416,3100.0
+267,S2 haut standing à Monastir,174300.0,83.0,2,Monastir,35.779885,10.814739,2100.0
+268,À Vendre un S2 à la Marsa,467400.0,123.0,3,La Marsa,36.873096,10.307982,3800.0
+269,"À VENDRE – S1à Sidi Daoud, La Marsa",258400.0,68.0,2,La Marsa,36.872325,10.327345,3800.0
+270,À VENDRE – Superbe S3 avec jardin privatif,399000.0,190.0,4,Monastir,35.778013,10.821663,2100.0
+271,A vendre s3 a cite taieb mhiri aouina,387600.0,102.0,3,La Marsa,36.871831,10.341177,3800.0
+272,Résidence: BABYLONE - Sfax,270000.0,150.0,4,Sfax,34.733124,10.757364,1800.0
+273,Des appartements à vendre chez promoteur,257400.0,117.0,3,Tunis,36.795464,10.169694,2200.0
+274,Magnifique S2 avec 2 suites,390000.0,150.0,3,Sousse,35.8351,10.659828,2600.0
+275,Appartement à l'achat à Les Jardins d'El Menzah 1. Superfici...,465000.0,150.0,3,Hammamet,36.397689,10.600346,3100.0
+276,Bel appartement à vendre à Borj Louzir. Superficie 88 m²,158400.0,88.0,3,Sfax,34.750155,10.768115,1800.0
+277,Opportunité d'un Sé de 114m² avec Parking,262200.0,114.0,3,Nabeul,36.461273,10.744309,2300.0
+278,Bel appartement à vendre. Surface de 170 m²,323000.0,170.0,2,Bizerte,37.27097,9.883837,1900.0
+279,S2 pour la vente,245700.0,117.0,3,Monastir,35.780986,10.84519,2100.0
+280,A vendre appartement s2 avec jardin au menzah 9,456000.0,120.0,3,La Marsa,36.870113,10.339778,3800.0
+281,À vendre un appartement S4 Ain Zaghouen,350400.0,146.0,5,Ariana,36.862823,10.190991,2400.0
+282,À Vendre un apppartement S3 à Laaouina DownTown,283800.0,129.0,4,Tunis,36.789538,10.191317,2200.0
+283,A vendre un appartement s2 au jardin de carthage,468000.0,180.0,3,Sousse,35.838027,10.623978,2600.0
+284,À VENDRE Penthouse S4 à sousse route touristique,754000.0,290.0,4,Sousse,35.837955,10.659693,2600.0
+285,Luxueux Appartement à vendre à Sahloul 1,180000.0,100.0,2,Sfax,34.742787,10.762833,1800.0
+286,Appartement S3 à vendre à sahloul,282900.0,123.0,3,Nabeul,36.469542,10.749474,2300.0
+287,Un bureau très haut standing à usage professionnel,475000.0,250.0,2,Bizerte,37.281024,9.869463,1900.0
+288,Appartement S2 à vendre à khzema Est,189000.0,90.0,2,Monastir,35.773117,10.828153,2100.0
+289,"À Vendre appartement S2 à Jaafer, Ariana",172800.0,72.0,3,Ariana,36.854888,10.194384,2400.0
+290,A vendre appartement S2 au Rdc à baryem etounssi,216000.0,90.0,3,Ariana,36.885096,10.186219,2400.0
+291,À VENDRE – Appartement S3 Luxe à Cité Gazelle,374000.0,170.0,4,Tunis,36.825492,10.197561,2200.0
+292,"A Vendre appartement en S2,1er étage Le Bardo",286000.0,110.0,3,Sousse,35.824038,10.621567,2600.0
+293,Appartement à l'achat. Superficie 220 m²,682000.0,220.0,3,Hammamet,36.403941,10.630019,3100.0
+294,Vente d'un bel appartement à Chotrana avec jardin,356400.0,198.0,2,Sfax,34.73103,10.770777,1800.0
+295,"À vendre – s2 très haut standing, nouvelle soukra ️ direct p...",197800.0,86.0,2,Nabeul,36.475442,10.737477,2300.0
+296,Nouveaux Appartements S1 & S2 – Vente Directe Promoteur ️,129200.0,68.0,2,Bizerte,37.280244,9.889105,1900.0
+297,A vendre s1 s2 direct promoteur nouvelle soukra,132300.0,63.0,2,Monastir,35.794088,10.843245,2100.0
+298,Penthouse de luxe Jardins de Carthage 307m² D1 3,1166600.0,307.0,5,La Marsa,36.893767,10.331859,3800.0
+299,Superbe S2 de 105m² à vendre,252000.0,105.0,3,Ariana,36.872695,10.201972,2400.0
+300,S1 moderne aux Jardins de Monastir,113400.0,54.0,2,Monastir,35.765216,10.846391,2100.0
+301,S1 en vente,400000.0,67.0,2,Sousse,35.822734,10.650815,5970.15
+302,Duplex en vente,452600.0,146.0,4,Hammamet,36.384792,10.606063,3100.0
+303,Duplex en vente,360000.0,200.0,4,Sfax,34.755658,10.742313,1800.0
+304,S2 en vente,230000.0,100.0,3,Nabeul,36.468885,10.752289,2300.0
+305,Résidence Omrane 16- Élégance à Riadh El Ghazela,369000.0,120.0,4,Bizerte,37.257186,9.888459,3075.0
+306,S2 en vente,210000.0,100.0,3,Monastir,35.767503,10.851584,2100.0
+307,Prix promotionnel jusqu'au 31 Août 2026,463600.0,122.0,3,La Marsa,36.885395,10.341595,3800.0
+308,Vend appartement à Les Jardins d'El Menzah 1. Surface totale...,336000.0,140.0,3,Ariana,36.866174,10.210169,2400.0
+309,Vente d'un bel appartement à Borj Louzir. Surface de 117 m²,257400.0,117.0,4,Tunis,36.824564,10.177604,2200.0
+310,Superbe appartement à vendre. Superficie 106 m²,275600.0,106.0,2,Sousse,35.812759,10.654185,2600.0
+311,Bel appartement à vendre à Les Berges Du Lac 1. Surface de 8...,257300.0,83.0,2,Hammamet,36.394039,10.626022,3100.0
+312,Un duplex avec une vue panoramique,403200.0,224.0,5,Sfax,34.722619,10.745093,1800.0
+313,À Vendre – un s2 à panorama,184000.0,80.0,3,Nabeul,36.473006,10.719444,2300.0
+314,A vendre un appartement s2 boumhal basssatine,155800.0,82.0,3,Bizerte,37.294388,9.884883,1900.0
+315,A vendre s2 a boumhal bassatine,199500.0,95.0,3,Monastir,35.764397,10.85313,2100.0
+316,Appartement S3 avec piscine à vendre au Lac 2,1216000.0,320.0,3,La Marsa,36.884413,10.336304,3800.0
+317,À Vendre – Appartement S4 à l'aouina,432000.0,180.0,5,Ariana,36.847207,10.198367,2400.0
+318,A vendre un s2 de haut standing à chotrana 1,277200.0,126.0,3,Tunis,36.800886,10.166948,2200.0
+319,S2 à VENDRE à La Mannouba,314600.0,121.0,3,Sousse,35.817002,10.656987,2600.0
+320,Appartement tout près de la plage à vendre. Surface de 85 m²...,263500.0,85.0,2,Hammamet,36.399138,10.633944,3100.0
+321,S2 en vente,180000.0,100.0,3,Sfax,34.737897,10.775474,1800.0
+322,"À vendre – s1 haut standing, cité wahat",147200.0,64.0,2,Nabeul,36.472141,10.721541,2300.0
+323,Coup de cœur à la nouvelle soukra – s1 avec terrasse & exce...,108300.0,57.0,2,Bizerte,37.29101,9.886409,1900.0
+324,Appartement en vente à Rades A 4 7,247800.0,118.0,3,Monastir,35.772403,10.829551,2100.0
+325,S1 de 62m² à Sidi Mahersi Nabeul,142600.0,62.0,2,Nabeul,36.44735,10.730378,2300.0
+326,A louer: Appartement vide en S2 de 120m²,288000.0,120.0,3,Ariana,36.871182,10.196977,2400.0
+327,Vente ennasr2 d'un penthouse en duplex haut standi,466400.0,212.0,4,Tunis,36.821389,10.169269,2200.0
+328,A Vendre S2 aux Jardins de Carthage,270400.0,104.0,3,Sousse,35.832488,10.651374,2600.0
+329,À VENDRE –Appartement S2 – Hannibal 3. D. 1,415400.0,134.0,3,Hammamet,36.389508,10.610551,3100.0
+330,A vendre S3 avec Terrasse à El Menzah 9,273600.0,152.0,4,Sfax,34.728839,10.752995,1800.0
